@@ -1,16 +1,28 @@
-### Hi there 👋
+```
+           ████████
+          ███▄███████
+          ███████████
+          ███████████
+          ██████
+          █████████
+█       ███████
+██    ████████████
+███  ██████████  █
+███████████████
+███████████████
+ █████████████
+  ███████████
+    ████████
+     ███  ██
+     ██    █
+     █     █
+     ██    ██
+```
 
-<!--
-**tomayac/tomayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Developer Advocate at Google Hamburg
+working on the Chrome team,
+focused on making the Web a better place
+through standardization, creating and sharing best practices,
+and doing research.
+I blog at [blog.tomayac.com](https://blog.tomayac.com/) and
+tweet as [@tomayac](https://twitter.com/tomayac).
