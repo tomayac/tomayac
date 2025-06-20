@@ -19,7 +19,7 @@
      ██    ██
 ```
 
-I'm a Developer Advocate at Google Hamburg
+I'm a full-time remote Developer Advocate at Google Spain
 working on the Chrome team,
 focused on making the Web a better place
 through standardization, creating and sharing best practices,
